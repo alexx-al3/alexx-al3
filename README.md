@@ -6,5 +6,5 @@ Olá a todos, me chamo Alex
 📌 Moro na cidade de Blumenaus (SC)
 
 🖥️ Tecnologias e Ferramentas:
-<img width="1280" height="200" alt="Programador JAVA em desenvolvimento (3)" src="https://github.com/user-attachments/assets/0fa61e72-b404-48ac-93bc-01cf3a9fc8e8" />
+<img width="420" height="200" alt="Programador JAVA em desenvolvimento (3)" src="https://github.com/user-attachments/assets/0fa61e72-b404-48ac-93bc-01cf3a9fc8e8" />
 
