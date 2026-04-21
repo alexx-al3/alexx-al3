@@ -9,4 +9,5 @@ Olá a todos, me chamo Alex
 HTML5 CSS3 JAVA  GITHUB Visual Studio Code MYSQL
 
 Contatos:
-@alexx.al3 alexsandro.allexx@gmail.com 
+@<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/98979a4c-af3c-4c57-923e-d7c95850b46a" />
+ alexsandro.allexx@gmail.com 
