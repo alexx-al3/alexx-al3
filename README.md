@@ -15,7 +15,7 @@
 <h2>🧠 Sobre mim</h2>
 
 <p>
-Venho do mundo do audiovisual, trabalhando com fotografia, produção e comunicação.<br><br>
+Venho do mundo do audiovisual, trabalhando com fotografia, produção e comunicação.<br>
 
 Hoje estou em evolução como desenvolvedor, focado em <b>Java</b> e na construção de sistemas reais.
 
