@@ -37,7 +37,7 @@ Busco unir <b>criatividade + lógica</b> para criar soluções que fazem sentido
 <h2>⚙️ Tecnologias & Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,postgres,github,vscode,godot" />
 </p>
 
 ---
@@ -46,9 +46,9 @@ Busco unir <b>criatividade + lógica</b> para criar soluções que fazem sentido
 
 <ul>
   <li>
-    <b>📚 ALLibrary</b><br>
+    <b>📚 ALBiblioteca</b><br>
     Sistema de biblioteca com controle de usuários, empréstimos e devoluções.<br>
-    🔹 Java + MySQL<br>
+    🔹 Java + PostgreeSQL<br>
     🔹 Estrutura orientada a objetos
   </li>
 
@@ -63,9 +63,9 @@ Aplicação baseada em comandos naturais do dia a dia.<br>
   <br>
 
   <li>
-    <b>🎬 Um Brasil por Cidade</b><br>
-    Projeto documental visitando todos os municípios do Brasil.<br>
-    🔹 Conteúdo + storytelling
+    <b>🎬 Um Game Chamado "Terra Seca: ERncantados </b><br>
+    Projeto de Jogo Indie em 2DPixelart Baseado no Folclore e narrativas do sertão Nordestino.<br>
+    🔹 Godot + GDspript
   </li>
 </ul>
 
