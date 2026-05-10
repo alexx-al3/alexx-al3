@@ -63,7 +63,7 @@ Aplicação baseada em comandos naturais do dia a dia.<br>
   <br>
 
   <li>
-    <b>🎬 Um Game Chamado "Terra Seca: ERncantados </b><br>
+    <b>🎬 Um Game Chamado "Terra Seca: Encantados </b><br>
     Projeto de Jogo Indie em 2DPixelart Baseado no Folclore e narrativas do sertão Nordestino.<br>
     🔹 Godot + GDspript
   </li>
