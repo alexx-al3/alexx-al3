@@ -2,7 +2,7 @@
 <h1 align="center">👋 Fala, eu sou o Alex Alves</h1>
 
 <p align="center">
-💻 Desenvolvedor Java | 🎥 Criador Digital
+💻 Desenvolvedor de Sistemas | 🎨 UI & Experiência Visual | 🚀 Criador de Soluções Reais
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@ Busco unir <b>criatividade + lógica</b> para criar soluções que fazem sentido
 <h2>🔥 Atualmente focado em</h2>
 
 <ul>
-  <li>🚀 Desenvolvimento de <b>Projetos de aprendizagem</b></li>
+ <li> 🚀 Desenvolvimento de sistemas e soluções reais </li>
   <li>🎨 Sistemas com boa identidade visual</li>
-  <li>🧠 Evolução em Java (POO, estrutura e boas práticas)</li>
+  <li>🧠 Arquitetura de software, Java e boas práticas de desenvolvimento</li>
 </ul>
 
 ---
@@ -37,7 +37,7 @@ Busco unir <b>criatividade + lógica</b> para criar soluções que fazem sentido
 <h2>⚙️ Tecnologias & Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,postgres,github,vscode,godot" />
+  <img src="https://skillicons.dev/icons?i=java,js,mysql,html,css,postgres,github,vscode,godot,vercel" />
 </p>
 
 ---
@@ -45,21 +45,30 @@ Busco unir <b>criatividade + lógica</b> para criar soluções que fazem sentido
 <h2>🚀 Projetos em destaque</h2>
 
 <ul>
+
+  <li>
+  <b>🔑 ACRC Imóveis — Sistema Inteligente de Controle de Chaves</b><br>
+  Plataforma web desenvolvida para gerenciamento completo de chaves imobiliárias, com rastreabilidade, auditoria e controle operacional em tempo real.<br><br>
+
+  🔹 Controle de retiradas e devoluções<br>
+  🔹 Histórico completo de movimentações<br>
+  🔹 Sistema de permissões por perfil<br>
+  🔹 Geração automática de comprovantes PDF<br>
+  🔹 Upload e gerenciamento de fotos das chaves<br>
+  🔹 PWA instalável para mobile<br>
+  🔹 Supabase + PostgreSQL + Vercel<br>
+  🔹 Interface moderna focada em produtividade e usabilidade
+</li>
+<a href="https://controledechavesacrc.vercel.app">
+  <img src="https://img.shields.io/badge/Sistema%20Online-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+  <br>
   <li>
     <b>📚 ALBiblioteca</b><br>
     Sistema de biblioteca com controle de usuários, empréstimos e devoluções.<br>
     🔹 Java + PostgreeSQL<br>
     🔹 Estrutura orientada a objetos
   </li>
-
-  <br>
-
-  <li>
- <b>💬 Sistema Conversacional</b><br>
-Aplicação baseada em comandos naturais do dia a dia.<br>
-🔹 Foco em experiência do usuário
-  </li>
-
   <br>
 
   <li>
