@@ -60,7 +60,7 @@ Busco unir <b>criatividade + lógica</b> para criar soluções que fazem sentido
   🔹 Interface moderna focada em produtividade e usabilidade
 </li>
 <br>
-<a href="https://controledechavesacrc.vercel.app">
+
   <img src="https://img.shields.io/badge/Sistema%20Online-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
   <br>
