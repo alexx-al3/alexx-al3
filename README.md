@@ -98,7 +98,7 @@ Busco unir <b>criatividade + lógica</b> para criar soluções que fazem sentido
 <h2>🏆 Conquistas</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexx-al3&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexx-al3&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
